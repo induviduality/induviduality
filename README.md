@@ -9,11 +9,7 @@
 
 - 🌱 I’m currently learning **Python, Algorithms**
 
-- 👯 I’m looking to collaborate on **Hackathon Projects**
-
-- 🤝 I’m looking for help with **Code Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/indujaaaa](https://github.com/indujaaaa)
+- 🤝 I’m looking for help and collaboration with **Code Projects**
 
 - 💬 Ask me about **Public Speaking and Anime**
 
