@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **Python, Algorithms**
+- 🌱 I’m currently learning **Algorithms, Linux & Cloud Native Foundations**
 
-- 🤝 I’m looking for help and collaboration with **Code Projects & Open Source**
+- 🤝 I’m looking for help and collaboration with **Code Projects & Open Source** :octocat:
 
-- 💬 Ask me about **Public Speaking and Anime**
+- 💬 Ask me about **Public Speaking🔊, Food🍕, Music🎵 and Anime🗻**
 
-- 📫 How to reach me **induja.shankar@gmail.com**
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31akw4opjgwy5kgpt3oxxqtjftge&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31akw4opjgwy5kgpt3oxxqtjftge&redirect=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
