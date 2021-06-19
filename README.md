@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, Algorithms**
 
-- 🤝 I’m looking for help and collaboration with **Code Projects**
+- 🤝 I’m looking for help and collaboration with **Code Projects & Open Source**
 
 - 💬 Ask me about **Public Speaking and Anime**
 
@@ -17,7 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/indujashankar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="indujashankar" height="30" width="40" /></a>
+<a href="https://twitter.com/indujashankar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/indujashankar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linked in" height="30" width="40" /></a>
 </p>
 
 [![Induja's github stats](https://github-readme-stats.vercel.app/api?username=indujaaaa&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
