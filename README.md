@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://twitter.com/indujashankar" target="blank"><img src="https://img.shields.io/twitter/follow/indujashankar?logo=twitter&style=for-the-badge" alt="indujashankar" /></a> </p>
 
-- 🔭 I’m currently working on **DSA**
+- 🔭 I’m currently working on **DSA** and **writing clean code.**
 
 - 🌱 I’m currently learning **Algorithms, Linux & Cloud Native Foundations**
 
