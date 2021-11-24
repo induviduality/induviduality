@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/indujashankar/" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" align="center" alt="linked in" height=40 /></a>
-  <a href="https://www.polywork.com/induja" target="blank"><img src="https://github.com/induviduality/induviduality/blob/main/polywork-rubix-icon-color.png" align="center" alt="linked in" height=40 /></a>
+  <a href="https://www.polywork.com/induja" target="blank"><img src="https://github.com/induviduality/induviduality/blob/main/polywork-rubix-icon-color.png" align="center" alt="polywork" height=40 /></a>
   <a href="https://twitter.com/indujashankar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="twitter" height=38 /></a>
 </p>
 
