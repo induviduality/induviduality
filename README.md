@@ -27,11 +27,9 @@
 ### My tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height=40 />  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height=40 /> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" height=40 /> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height=40 /> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" height=40 />
 
-<p align="center">
+![Induja's github activity graph](https://github-stats-graph.herokuapp.com/graph?username=induviduality&bg_color=000000&color=8840fc&line=e63061&point=9afff1&hide_border=true)
 
-[![Induja's github stats](https://github-readme-stats.vercel.app/api?username=induviduality&show_icons=true&theme=midnight-purple&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=induviduality&show_icons=true&theme=midnight-purple&layout=compact&card_width=410)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=induviduality&show_icons=true&theme=midnight-purple&hide_border=true&exclude_repo=quantum-dice-hack&langs_count=10&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
 
-![Induja's github activity graph](https://github-stats-graph.herokuapp.com/graph?username=induviduality&bg_color=000000&color=8840fc&line=e63061&point=9afff1)
 
 ![](https://hit.yhype.me/github/profile?user_id=53386868)
