@@ -29,10 +29,9 @@
 
 <p align="center">
 
-[![Induja's github stats](https://github-readme-stats.vercel.app/api?username=induviduality&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=induviduality&show_icons=true&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Induja's github stats](https://github-readme-stats.vercel.app/api?username=induviduality&show_icons=true&theme=midnight-purple&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=induviduality&show_icons=true&theme=midnight-purple&layout=compact&card_width=410)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
+![Induja's github activity graph](https://github-stats-graph.herokuapp.com/graph?username=induviduality&bg_color=000000&color=8840fc&line=e63061&point=9afff1)
 
 ![](https://hit.yhype.me/github/profile?user_id=53386868)
