@@ -29,7 +29,7 @@
 
 ![Induja's github activity graph](https://github-stats-graph.herokuapp.com/graph?username=induviduality&bg_color=000000&color=8840fc&line=e63061&point=9afff1&hide_border=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=induviduality&show_icons=true&theme=midnight-purple&hide_border=true&exclude_repo=quantum-dice-hack&langs_count=10&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=induviduality&show_icons=true&theme=midnight-purple&layout=compact&hide_border=true&exclude_repo=quantum-dice-hack&langs_count=10&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://hit.yhype.me/github/profile?user_id=53386868)
