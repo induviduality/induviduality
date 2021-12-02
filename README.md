@@ -1,6 +1,6 @@
 ![Header](Header.jpg)
 <h1 align="center"><img src="https://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" width=48> Hi! I'm Induja</h1>
-<h3 align="center">An aspiring software engineer dev from India</h3>
+<h3 align="center">An aspiring software engineer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=induviduality&color=8840fc" alt="induviduality" /> </p>
 
