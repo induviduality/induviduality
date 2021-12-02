@@ -1,18 +1,19 @@
 ![Header](Header.jpg)
-<h1 align="center">Hi! I'm Induja 👋</h1>
-<h3 align="center">An aspiring dev from India</h3>
+<h1 align="center"><img src="https://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" width=48> Hi! I'm Induja</h1>
+<h3 align="center">An aspiring software engineer dev from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=induviduality&color=8840fc" alt="induviduality" /> </p>
-<p align="center">
-  <a href="https://twitter.com/indujashankar" target="blank"><img src="https://img.shields.io/twitter/follow/indujashankar?logo=twitter&style=for-the-badge" alt="indujashankar" /></a> </p>
 
-- 🔭 I’m currently working on **DSA** and **writing clean code.**
+<a href="https://app.daily.dev/induja"><img src="https://api.daily.dev/devcards/5db4826aa891449e8aa3b1faa24b54c8.png?r=7l9" width="25%" align="right" alt="Induja Shankar's Dev Card"/></a>
+## What I'm upto
 
-- 🌱 I’m currently learning **Algorithms, Linux & Cloud Native Foundations**
-
-- 🤝 I’m looking for help and collaboration with **Code Projects & Open Source** :octocat:
-
-- 💬 Ask me about **Public Speaking🔊, Food🍕, Music🎵 and Anime🗻**
+  - 🔭 I’m currently working on **DSA** and **writing clean code.**
+  
+  - 🌱 I’m currently learning **Algorithms**
+  
+  - 🤝 I’m looking for help and collaboration with **Community Building, Code Projects & Open Source** :octocat:
+  
+  - 💬 Ask me about **Public Speaking🔊, Food🍕, Music🎵 and Anime🗻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +27,8 @@
 
 ### My tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height=40 />  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height=40 /> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" height=40 /> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height=40 /> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" height=40 />
+
+### 
 
 ![Induja's github activity graph](https://github-stats-graph.herokuapp.com/graph?username=induviduality&bg_color=000000&color=8840fc&line=e63061&point=9afff1&hide_border=true)
 
