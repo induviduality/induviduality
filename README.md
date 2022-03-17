@@ -22,6 +22,7 @@
   <a href="https://twitter.com/indujashankar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="twitter" height=38 /></a>
   <a href="https://dev.to/induja" target="blank"><img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" align="center" alt="dev.to page" height=40 /></a>
   <a href="https://hashnode.com/@induja" target="blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" align="center" alt="hashnode page" height=40 /></a>
+  <a href="https://developers.google.com/profile/u/induja" target="blank"><img src="https://www.gstatic.com/devrel-devsite/prod/v96fe7c72c7b00a90a6621d124258058ede00fa09bdb0b7e43bfa676d03923593/developers/images/touchicon-180.png" align="center" alt="google developers" height=40 /></a>
 </p>
 
 ### I've worked with
